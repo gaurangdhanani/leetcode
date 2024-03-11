@@ -27,7 +27,7 @@ private:
     }
 };
 
-// Below Code is binary but does not work for every test cases.
+// Below Code I tried to use a binary search algorithm but did not work for every test case like when the value of the element is 0.
 /*private:
     int binarySearch(const std::vector<int>& nums, int target, int start) {
         int left = start;
