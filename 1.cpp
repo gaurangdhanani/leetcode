@@ -27,7 +27,7 @@ private:
     }
 };
 
-// Below Code is binary but does not work for every testcases.
+// Below Code is binary but does not work for every test cases.
 /*private:
     int binarySearch(const std::vector<int>& nums, int target, int start) {
         int left = start;
